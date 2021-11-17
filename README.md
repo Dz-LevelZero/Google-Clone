@@ -1,3 +1,12 @@
+# Google Clone Powered by Rapid-Api (for practice usage) 
+![google-clone-images](https://i.imgur.com/VUyXL7U.png)
+![google-clone-all-search](https://i.imgur.com/jrFO9yh.png)
+
+This project allows users to search for up-to-date results, , news , images and videos using Fetch data from Google Search Api using Rapid-API
+
+All thanks to Adrian from "JavaScript Mastery" Youtube videos for all his tutorials and advices.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
